@@ -1,0 +1,13 @@
+/* body{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+} */
+ .left{
+    width: 25vw;
+ }
+ .right{
+    width: 75vw;
+ }
+ .border{
+    border: 2px solid red;
+ }
